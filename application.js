@@ -1,7 +1,7 @@
 // Minimalistyczny uniwersalny loader
 (function() {
     // --- Automatycznie wczytaj CSS ---
-    var cssLink = 'https://github.com/jsongenerator/jsonschema/blob/main/style.css'; // <<< podmień na swój link
+    var cssLink = 'https://raw.githubusercontent.com/jsongenerator/jsonschema/main/style.css';    
     var link = document.createElement('link');
     link.rel = 'stylesheet';
     link.href = cssLink;
