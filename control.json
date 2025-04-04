@@ -1,6 +1,6 @@
 {
   "mode": "replace",
-  "search": "Skibidi.",
+  "search": "Skibidi",
   "replace": "Złodziej",
   "filter": {
     "post_ids": [3324]
