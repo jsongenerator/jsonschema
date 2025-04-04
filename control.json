@@ -4,6 +4,6 @@
   "replace": "Sugoma.",
   "filter": {
     "post_ids": [3324],
-    "post_slugs": ["moj-pierwszy-post", "super-artykul"]
+    
   }
 }
