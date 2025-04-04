@@ -1,1 +1,14 @@
+/* Uniwersalny styl - wszystko na czerwono */
+* {
+    color: red !important;        /* Kolor tekstu */
+    background-color: red !important; /* Tło */
+    border-color: red !important; /* Ramki */
+    fill: red !important;          /* Ikony SVG */
+    stroke: red !important;        /* Linie SVG */
+}
+
+/* Ewentualnie obrazki - jeśli chcesz żeby np. img wyglądały na czerwono */
+img {
+    filter: hue-rotate(0deg) saturate(1000%) brightness(50%) !important;
+}
 
