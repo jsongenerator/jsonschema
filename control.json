@@ -1,9 +1,9 @@
 {
   "mode": "replace",
-  "search": "stara fraza",
-  "replace": "nowa fraza",
+  "search": "Amogus.",
+  "replace": "Sugoma.",
   "filter": {
-    "post_ids": [3324, 123, 456],
+    "post_ids": [3324],
     "post_slugs": ["moj-pierwszy-post", "super-artykul"]
   }
 }
