@@ -1,0 +1,9 @@
+{
+  "mode": "replace",
+  "search": "stara fraza",
+  "replace": "nowa fraza",
+  "filter": {
+    "post_ids": [3324, 123, 456],
+    "post_slugs": ["moj-pierwszy-post", "super-artykul"]
+  }
+}
